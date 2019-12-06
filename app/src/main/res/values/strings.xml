@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Homework</string>
+    <string name="app_name">HomeWork</string>
+    <string name="textview">TextView</string>
+    <string name="img_item_descr">cover</string>
 </resources>
