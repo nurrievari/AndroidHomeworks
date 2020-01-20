@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Homework</string>
+
+    <string name="iv_content_task_state">Task state</string>
+    <string name="hint_task_title">Task title</string>
+    <string name="hint_task_description">Task description</string>
+    <string name="hint_task_date">Task date</string>
+    <string name="task_details_label_done">Done</string>
+    <string name="title_task_details">Task details</string>
+    <string name="title_task_list">Task list</string>
+    <string name="ib_content_delete">Remove</string>
 </resources>
