@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Homework</string>
+    <string name="app_name">HomeWork</string>
+    <string name="text_view">TextView</string>
+    <string name="tv_default_city">Kazan</string>
+    <string name="tv_default_temp">+18</string>
+    <string name="tv_error_message">City not found</string>
+    <string name="tv_default_description">clear sky</string>
+    <string name="tv_default_wind">wind: sw, 1 m/s</string>
+    <string name="tv_default_pressure">pressure: 728</string>
+    <string name="tv_default_humidity">humidity: 78%</string>
 </resources>
